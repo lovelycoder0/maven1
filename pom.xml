@@ -33,12 +33,11 @@
         <version>8.0.16</version>
       </dependency>
     
-      <!--引入servlet-->
       <dependency>
-        <groupId>Javax.servlet</groupId>
-        <artifactId>servlet-api</artifactId>
-        <version>3.0-alpha-1</version>
-      </dependency>
+    <groupId>javax.servlet</groupId>
+    <artifactId>javax.servlet-api</artifactId>
+    <version>3.1.0</version>
+  </dependency>
 
   </dependencies>
 
